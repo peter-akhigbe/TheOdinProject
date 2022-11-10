@@ -1,0 +1,24 @@
+.bbq-image {
+    height: auto;
+    width: 30%;
+}
+
+.pizza-image {
+    height: auto;
+    width: auto;
+}
+
+.shawarma-image {
+    height: auto;
+    width: 30%;
+}
+
+.chef-image {
+    height: auto;
+    width: 30%;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: grey;
+}
